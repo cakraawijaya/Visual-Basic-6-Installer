@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/cakraawijaya/Visual-Basic-6-Installer?logo=Codeforces&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Installer-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Visual-Basic-6-Installer
+# Visual Basic 6 Installer
 Visual Basic 6.0 merupakan aplikasi yang dirancang untuk mempermudah pengembangan aplikasi berbasis Windows dengan menggunakan antarmuka grafis yang intuitif, metode drag-and-drop, dan pemrograman berbasis event.
 
 <br>
